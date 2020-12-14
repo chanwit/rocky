@@ -35,24 +35,24 @@ A เป็นตัวเลือกที่ **แข็งแกร่ง** 
 
 เราทุกคน Rocky Linux เป็นโครงการที่ขับเคลื่อนด้วยชุมชน และจะเป็นเช่นนั้นไปตลอด Rocky Linux จะไม่ถูกขายให้หรือขับเคลื่อนโดยผลประโยชน์ของบริษัท
 
-> **Q:** How can I get involved?
+> **Q:** จะเข้าร่วมได้อย่างไร?
 
-Please view the [contributing](#contributing) section below.
+สามารถดูได้ที่ section [การมีส่วนร่วม](#การมีส่วนร่วม) ด้านล่าง
 
-## Contact
+## ติดต่อ
 
-| Team                          | Contact                                   |
+| ทีม                            | ติดต่อ                                      |
 |-------------------------------|-------------------------------------------|
-| Press                         | outreach@rockylinux.org                   |
-| Development                   | development@rockylinux.org                |
-| Infrastructure                | infrastructure@rockylinux.org             |
-| Security                      | security@rockylinux.org                   |
-| Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
+| เพรส                          | outreach@rockylinux.org                   |
+| การพัฒนา                   | development@rockylinux.org                |
+| โครงสร้างพื้นฐาน                | infrastructure@rockylinux.org             |
+| ความปลอดภัย                      | security@rockylinux.org                   |
+| เว็บและแบรนด์              | web@rockylinux.org, brand@rockylinux.com  |
 
 
-For all other questions: hello@rockylinux.org
+สำหรับคำถามอื่น ๆ: hello@rockylinux.org
 
-## Stay Informed
+## ติดตามข่าวสาร
 
 * [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
 * [Forum](https://forums.rockylinux.org/)
@@ -62,19 +62,19 @@ For all other questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contributing
+## การมีส่วนร่วม
 
-Thank you for your interest in contributing to the project.
+ขอขอบคุณสำหรับความสนใจในที่จะมีส่วนร่วมในโครงการนี้
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) and jumping into the most relevant channel to your interests.
+ถ้าคุณเป็น นักพัฒนา สถาปนิก วิศวกร หรือสามารถสละเวลาหรือความเชี่ยวชาญเพื่อมีส่วนร่วม สามารถเข้าร่วมได้ที่ [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) และกระโดดเข้าไปในห้องตามหัวข้อที่คุณสนใจ
 
-If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
+ถ้าคุณสนใจที่จะบริจาคหรือเป็นผู้สนับสนุนโครงการ โปรดอีเมล์มาที่ hello@rockylinux.org.
 
-**NOTE**: We **do not** currently have any official crowdsourcing established.
+**หมายเหตุ**: เรา **ยังไม่มี**การระดมทุนใดๆ อย่างเป็นทางการ
 
-## Special Thanks
+## ขอขอบคุณ
 
-We would like to thank the following groups for their support thus far on the project:
+พวกเราขอขอบคุณกลุ่มต่อไปนี้สำหรับการสนับสนุนที่ผ่านมาสำหรับโครงการ:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
