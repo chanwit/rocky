@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<i>"Thinking back to early CentOS days... My cofounder was Rocky McGaugh. He is no longer with us, so as a H/T to him, who never got to see the success that CentOS came to be, I introduce to you...Rocky Linux"</i><br>
-— Gregory Kurtzer, Founder
+<i>"นึกย้อนกลับไปในช่วงแรกของ CentOS ... ผู้ร่วมก่อตั้งของผมคือ Rocky McGaugh เขาไม่ได้อยู่กับเราอีกต่อไปแล้ว เพื่อเป็นการ H/T ถึงเขาที่ไม่เคยได้เห็นความสำเร็จของ CentOS ทุกคนครับผมขอแนะนำ...Rocky Linux"</i><br>
+— Gregory Kurtzer, ผู้ก่อตั้ง
 </p>
 
 ## About
