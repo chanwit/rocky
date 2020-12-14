@@ -11,11 +11,11 @@
 
 Rocky Linux เป็นระบบปฏิบัติการระดับเอ็นเตอร์ไพร์สของชุมชน ที่ออกแบบให้เข้ากันกับ Enterprise Linux แบบ 100% ระดับ bug-ต่อ-bug เนื่องจากตอนนี้ CentOS ได้เปลี่ยนแนวทางไปจากเดิมแล้ว
 
-## Frequently Asked Questions
+## คำถามถามบ่อย
 
-> **Q:** What do you mean, "CentOS has shifted direction?"
+> **Q:** "CentOS เปลี่ยนทิศทาง" หมายความว่าอะไร?
 
-The CentOS project [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) a shift in strategy for CentOS. Whereas previously CentOS existed as a *downstream* build of its upstream vendor (it receives patches and updates after the upstream vendor does), it will be shifting to an *upstream* build (testing patches and updates *before* inclusion in the upstream vendor).
+โครงการ CentOS [ประกาศเร็ว ๆ นี้ว่า](https://blog.centos.org/2020/12/future-is-centos-stream/) ได้ทำการปรับยุทธศาสตร์สำหรับ CentOS โดย CentOS ก่อนหน้านี้เป็น build แบบ *downstream* ของตัว vendor ต้นน้ำ (โดน CentOS จะรับ patches และการ updates หลังจาก vendor ต้นน้ำทำ), CentOS จะปรับตัวไปเป็น build ต้นน้ำแทน (โดยทดสอบ patches และ updates *ก่อน* การรวมเข้าไปยังต้นน้ำของ vendor)
 
 Additionally, support for CentOS Linux 8 has been cut short, from May 31, 2029 to December 31, 2021.
 
